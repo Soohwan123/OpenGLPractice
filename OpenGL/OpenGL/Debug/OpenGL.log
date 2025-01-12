@@ -2,4 +2,9 @@
 C:\Users\Soohwan Kim\Desktop\OpenGL\OpenGLPractice\OpenGL\Dependencies\GLFW\include\GLFW\glfw3.h(3235,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
   (compiling source file 'src/Application.cpp')
   
+  Shader.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB '' was not found with 'glew32s.lib(glew.obj)' or at ''; linking object as if no debug info
   OpenGL.vcxproj -> C:\Users\Soohwan Kim\Desktop\OpenGL\OpenGLPractice\OpenGL\Debug\OpenGL.exe
