@@ -3,28 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|solutionrelative:src\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|solutionrelative:src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|solutionrelative:src\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\res\\shaders\\Basic.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|solutionrelative:res\\shaders\\Basic.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|solutionrelative:src\\texture.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|solutionrelative:src\\texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|solutionrelative:src\\Shader.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|solutionrelative:src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|solutionrelative:src\\Shader.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\VertexArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|solutionrelative:src\\VertexArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\IndexBuffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|solutionrelative:src\\IndexBuffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\VertexArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|solutionrelative:src\\VertexArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\vendor\\stb_image\\stb_image.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|solutionrelative:src\\vendor\\stb_image\\stb_image.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\res\\shaders\\Basic.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|solutionrelative:res\\shaders\\Basic.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\vendor\\stb_image\\stb_image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|solutionrelative:src\\vendor\\stb_image\\stb_image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -43,16 +59,20 @@
       "RelativeMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|solutionrelative:src\\VertexBufferLayout.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\IndexBuffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|solutionrelative:src\\IndexBuffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\VertexArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|solutionrelative:src\\VertexArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|solutionrelative:src\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\VertexArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|solutionrelative:src\\VertexArray.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\IndexBuffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{635AFF3F-059E-46A4-8208-886562E802B0}|OpenGL.vcxproj|solutionrelative:src\\IndexBuffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\Dependencies\\GLFW\\include\\GLFW\\glfw3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dependencies\\GLFW\\include\\GLFW\\glfw3.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,137 +86,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Shader.h",
-              "DocumentMoniker": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\Shader.h",
-              "RelativeDocumentMoniker": "src\\Shader.h",
-              "ToolTip": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\Shader.h",
-              "RelativeToolTip": "src\\Shader.h",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-12T17:44:38.423Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Shader.cpp",
-              "DocumentMoniker": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\Shader.cpp",
-              "RelativeDocumentMoniker": "src\\Shader.cpp",
-              "ToolTip": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\Shader.cpp",
-              "RelativeToolTip": "src\\Shader.cpp",
-              "ViewState": "AgIAAH4AAAAAAAAAAAAAAIwAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-12T17:44:27.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VertexArray.h",
-              "DocumentMoniker": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\VertexArray.h",
-              "RelativeDocumentMoniker": "src\\VertexArray.h",
-              "ToolTip": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\VertexArray.h",
-              "RelativeToolTip": "src\\VertexArray.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-12T10:45:25.405Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "VertexBuffer.cpp",
-              "DocumentMoniker": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\VertexBuffer.cpp",
-              "RelativeDocumentMoniker": "src\\VertexBuffer.cpp",
-              "ToolTip": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\VertexBuffer.cpp",
-              "RelativeToolTip": "src\\VertexBuffer.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-11T19:08:34.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Application.cpp",
-              "DocumentMoniker": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\Application.cpp",
-              "RelativeDocumentMoniker": "src\\Application.cpp",
-              "ToolTip": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\Application.cpp",
-              "RelativeToolTip": "src\\Application.cpp",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGEAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-09T23:03:53.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "VertexBuffer.h",
-              "DocumentMoniker": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\VertexBuffer.h",
-              "RelativeDocumentMoniker": "src\\VertexBuffer.h",
-              "ToolTip": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\VertexBuffer.h",
-              "RelativeToolTip": "src\\VertexBuffer.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-11T19:08:23.021Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "VertexArray.cpp",
-              "DocumentMoniker": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\VertexArray.cpp",
-              "RelativeDocumentMoniker": "src\\VertexArray.cpp",
-              "ToolTip": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\VertexArray.cpp",
-              "RelativeToolTip": "src\\VertexArray.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-12T11:03:32.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "VertexBufferLayout.h",
-              "DocumentMoniker": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\VertexBufferLayout.h",
-              "RelativeDocumentMoniker": "src\\VertexBufferLayout.h",
-              "ToolTip": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\VertexBufferLayout.h",
-              "RelativeToolTip": "src\\VertexBufferLayout.h",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-12T10:48:23.631Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Basic.shader",
-              "DocumentMoniker": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\res\\shaders\\Basic.shader",
-              "RelativeDocumentMoniker": "res\\shaders\\Basic.shader",
-              "ToolTip": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\res\\shaders\\Basic.shader",
-              "RelativeToolTip": "res\\shaders\\Basic.shader",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-11T09:48:03.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Renderer.h",
-              "DocumentMoniker": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\Renderer.h",
-              "RelativeDocumentMoniker": "src\\Renderer.h",
-              "ToolTip": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\Renderer.h",
-              "RelativeToolTip": "src\\Renderer.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-11T19:04:38.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "IndexBuffer.cpp",
               "DocumentMoniker": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\IndexBuffer.cpp",
               "RelativeDocumentMoniker": "src\\IndexBuffer.cpp",
@@ -209,20 +99,208 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
+              "Title": "Application.cpp",
+              "DocumentMoniker": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\Application.cpp",
+              "RelativeDocumentMoniker": "src\\Application.cpp",
+              "ToolTip": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\Application.cpp*",
+              "RelativeToolTip": "src\\Application.cpp*",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-09T23:03:53.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Shader.h",
+              "DocumentMoniker": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\Shader.h",
+              "RelativeDocumentMoniker": "src\\Shader.h",
+              "ToolTip": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\Shader.h",
+              "RelativeToolTip": "src\\Shader.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-12T17:44:38.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Shader.cpp",
+              "DocumentMoniker": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\Shader.cpp",
+              "RelativeDocumentMoniker": "src\\Shader.cpp",
+              "ToolTip": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\Shader.cpp",
+              "RelativeToolTip": "src\\Shader.cpp",
+              "ViewState": "AgIAAHAAAAAAAAAAAAA1wH0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T17:44:27.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Basic.shader",
+              "DocumentMoniker": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\res\\shaders\\Basic.shader",
+              "RelativeDocumentMoniker": "res\\shaders\\Basic.shader",
+              "ToolTip": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\res\\shaders\\Basic.shader",
+              "RelativeToolTip": "res\\shaders\\Basic.shader",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-11T09:48:03.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "stb_image.cpp",
+              "DocumentMoniker": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\vendor\\stb_image\\stb_image.cpp",
+              "RelativeDocumentMoniker": "src\\vendor\\stb_image\\stb_image.cpp",
+              "ToolTip": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\vendor\\stb_image\\stb_image.cpp",
+              "RelativeToolTip": "src\\vendor\\stb_image\\stb_image.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-14T10:38:23.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Renderer.cpp",
               "DocumentMoniker": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\Renderer.cpp",
               "RelativeDocumentMoniker": "src\\Renderer.cpp",
               "ToolTip": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\Renderer.cpp",
               "RelativeToolTip": "src\\Renderer.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-11T19:05:01.282Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Texture.h",
+              "DocumentMoniker": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\Texture.h",
+              "RelativeDocumentMoniker": "src\\Texture.h",
+              "ToolTip": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\Texture.h",
+              "RelativeToolTip": "src\\Texture.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-14T10:39:18.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Texture.cpp",
+              "DocumentMoniker": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\Texture.cpp",
+              "RelativeDocumentMoniker": "src\\Texture.cpp",
+              "ToolTip": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\Texture.cpp",
+              "RelativeToolTip": "src\\Texture.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-14T10:39:23.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "stb_image.h",
+              "DocumentMoniker": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\vendor\\stb_image\\stb_image.h",
+              "RelativeDocumentMoniker": "src\\vendor\\stb_image\\stb_image.h",
+              "ToolTip": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\vendor\\stb_image\\stb_image.h",
+              "RelativeToolTip": "src\\vendor\\stb_image\\stb_image.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKUfAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-14T10:37:42.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VertexBuffer.cpp",
+              "DocumentMoniker": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\VertexBuffer.cpp",
+              "RelativeDocumentMoniker": "src\\VertexBuffer.cpp",
+              "ToolTip": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\VertexBuffer.cpp",
+              "RelativeToolTip": "src\\VertexBuffer.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-11T19:08:34.821Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "VertexBuffer.h",
+              "DocumentMoniker": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\VertexBuffer.h",
+              "RelativeDocumentMoniker": "src\\VertexBuffer.h",
+              "ToolTip": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\VertexBuffer.h",
+              "RelativeToolTip": "src\\VertexBuffer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-11T19:08:23.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VertexBufferLayout.h",
+              "DocumentMoniker": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\VertexBufferLayout.h",
+              "RelativeDocumentMoniker": "src\\VertexBufferLayout.h",
+              "ToolTip": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\VertexBufferLayout.h",
+              "RelativeToolTip": "src\\VertexBufferLayout.h",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-12T10:48:23.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Renderer.h",
+              "DocumentMoniker": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\Renderer.h",
+              "RelativeDocumentMoniker": "src\\Renderer.h",
+              "ToolTip": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\Renderer.h",
+              "RelativeToolTip": "src\\Renderer.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-11T19:04:38.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VertexArray.h",
+              "DocumentMoniker": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\VertexArray.h",
+              "RelativeDocumentMoniker": "src\\VertexArray.h",
+              "ToolTip": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\VertexArray.h",
+              "RelativeToolTip": "src\\VertexArray.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-12T10:45:25.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VertexArray.cpp",
+              "DocumentMoniker": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\VertexArray.cpp",
+              "RelativeDocumentMoniker": "src\\VertexArray.cpp",
+              "ToolTip": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\VertexArray.cpp",
+              "RelativeToolTip": "src\\VertexArray.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T11:03:32.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "glfw3.h",
+              "DocumentMoniker": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\Dependencies\\GLFW\\include\\GLFW\\glfw3.h",
+              "RelativeDocumentMoniker": "Dependencies\\GLFW\\include\\GLFW\\glfw3.h",
+              "ToolTip": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\Dependencies\\GLFW\\include\\GLFW\\glfw3.h",
+              "RelativeToolTip": "Dependencies\\GLFW\\include\\GLFW\\glfw3.h",
+              "ViewState": "AgIAAJcMAAAAAAAAAAAiwKIMAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-13T08:15:17.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "IndexBuffer.h",
               "DocumentMoniker": "C:\\Users\\Soohwan Kim\\Desktop\\OpenGL\\OpenGLPractice\\OpenGL\\src\\IndexBuffer.h",
               "RelativeDocumentMoniker": "src\\IndexBuffer.h",
@@ -230,8 +308,7 @@
               "RelativeToolTip": "src\\IndexBuffer.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-11T19:17:51.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T19:17:51.712Z"
             }
           ]
         }

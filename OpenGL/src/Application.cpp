@@ -8,9 +8,10 @@
 #include "Renderer.h"
 #include "VertexBuffer.h"
 #include "IndexBuffer.h"
-
+#include "VertexBufferLayout.h"
 #include "VertexArray.h"
 #include "Shader.h"
+#include "Texture.h"
 
 
 int main(void)
@@ -33,7 +34,7 @@ int main(void)
     glfwWindowHint(GLFW_OPENGL_PROFILE, GLFW_OPENGL_CORE_PROFILE); // Core 에선 vao 를 만들어야한다.
 
     /* Create a windowed mode window and its OpenGL context */
-    window = glfwCreateWindow(640, 480, "Hello World", NULL, NULL);
+    window = glfwCreateWindow(640, 480, "Soohwan's OpenGL Practice", NULL, NULL);
     if (!window)
     {
         glfwTerminate();
@@ -53,10 +54,10 @@ int main(void)
     std::cout << glGetString(GL_VERSION) << std::endl;
     {
         float positions[] = {
-        -0.5f, -0.5f, //0
-         0.5f, -0.5f, //1
-         0.5f,  0.5f, //2
-        -0.5f,  0.5f  //3
+        -0.5f, -0.5f,  0.0f, 0.0f, //0
+         0.5f, -0.5f,  1.0f, 0.0f,//1
+         0.5f,  0.5f,  1.0f, 1.0f,//2
+        -0.5f,  0.5f,  0.0f, 1.0f //3
         };
 
         //Index Buffer
@@ -65,19 +66,34 @@ int main(void)
             2, 3, 0
         };
 
+        GLCall(glEnable(GL_BLEND));
+        GLCall(glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA)); // 소스 알파에서 -1를 빼서 붙이겠다는 뜻인데 나중에..
+
+        //VAO 바인딩
         VertexArray va;
         va.Bind();
-        VertexBuffer vb(positions, 4 * 2 * sizeof(float));
-
+        
+        //VBO 생성 및 VAO 에 바인딩
+        VertexBuffer vb(positions, 4 * 4 * sizeof(float));
         VertexBufferLayout layout;
         layout.Push<float>(2);
+        //텍스쳐 레이아웃
+        layout.Push<float>(2);
+
         va.AddBuffer(vb, layout);
 
+        //IB 생성
         IndexBuffer ib(indices, 6);
 
+        //쉐이더, 유니폼 바인딩
         Shader shader("res/shaders/Basic.shader");
         shader.Bind();
         shader.SetUniform4f("u_Color", 0.8f, 0.3f, 0.8f, 1.0f);
+
+        //텍스쳐
+        Texture texture("res/textures/mipmaps.png");
+        texture.Bind();      // 디폴트 슬롯이 0 
+        shader.SetUniform1i("u_Texture", 0); // 여기도 0 (슬롯을 바꾸면 여기도 바꿔주기)
 
         // unbind 하기 (공부를 위해)
         va.Unbind();
@@ -85,23 +101,20 @@ int main(void)
         vb.Unbind();
         ib.Unbind();
 
+        Renderer renderer;
+
         float r = 0.0f;
         float increment = 0.05f;
         /* Loop until the user closes the window */
         while (!glfwWindowShouldClose(window))
         {
             /* Render here */
-            glClear(GL_COLOR_BUFFER_BIT);
+            renderer.Clear();
 
             shader.Bind();
             shader.SetUniform4f("u_Color", r, 0.3f, 0.8f, 1.0f);
 
-            va.Bind();
-            ib.Bind();
-
-            //이녀석은 이제 버퍼에 바인드된 데이터를 처리한다. (굳이 주저리주저리안해도 버퍼안에 있는놈을 먼저 렌더링)
-            //glDrawArrays(GL_TRIANGLES, 0, 6); // 0 부터 3개를 쓴다 (3포인트 즉 삼각형)
-            GLCall(glDrawElements(GL_TRIANGLES, 6, GL_UNSIGNED_INT, nullptr));
+            renderer.Draw(va, ib, shader);
 
             if (r > 1.0f)
                 increment = -0.009f;

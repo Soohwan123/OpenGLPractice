@@ -2,5 +2,7 @@ C:\Users\Soohwan Kim\Desktop\OpenGL\OpenGLPractice\OpenGL\src\Application.cpp;C:
 C:\Users\Soohwan Kim\Desktop\OpenGL\OpenGLPractice\OpenGL\src\IndexBuffer.cpp;C:\Users\Soohwan Kim\Desktop\OpenGL\OpenGLPractice\OpenGL\OpenGL\Debug\IndexBuffer.obj
 C:\Users\Soohwan Kim\Desktop\OpenGL\OpenGLPractice\OpenGL\src\Renderer.cpp;C:\Users\Soohwan Kim\Desktop\OpenGL\OpenGLPractice\OpenGL\OpenGL\Debug\Renderer.obj
 C:\Users\Soohwan Kim\Desktop\OpenGL\OpenGLPractice\OpenGL\src\Shader.cpp;C:\Users\Soohwan Kim\Desktop\OpenGL\OpenGLPractice\OpenGL\OpenGL\Debug\Shader.obj
+C:\Users\Soohwan Kim\Desktop\OpenGL\OpenGLPractice\OpenGL\src\Texture.cpp;C:\Users\Soohwan Kim\Desktop\OpenGL\OpenGLPractice\OpenGL\OpenGL\Debug\Texture.obj
+C:\Users\Soohwan Kim\Desktop\OpenGL\OpenGLPractice\OpenGL\src\vendor\stb_image\stb_image.cpp;C:\Users\Soohwan Kim\Desktop\OpenGL\OpenGLPractice\OpenGL\OpenGL\Debug\stb_image.obj
 C:\Users\Soohwan Kim\Desktop\OpenGL\OpenGLPractice\OpenGL\src\VertexArray.cpp;C:\Users\Soohwan Kim\Desktop\OpenGL\OpenGLPractice\OpenGL\OpenGL\Debug\VertexArray.obj
 C:\Users\Soohwan Kim\Desktop\OpenGL\OpenGLPractice\OpenGL\src\VertexBuffer.cpp;C:\Users\Soohwan Kim\Desktop\OpenGL\OpenGLPractice\OpenGL\OpenGL\Debug\VertexBuffer.obj
